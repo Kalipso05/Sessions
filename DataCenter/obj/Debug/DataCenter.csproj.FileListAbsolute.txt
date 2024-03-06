@@ -1,0 +1,14 @@
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\bin\Debug\DataCenter.dll.config
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\bin\Debug\DataCenter.dll
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\bin\Debug\DataCenter.pdb
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\bin\Debug\EntityFramework.dll
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\bin\Debug\EntityFramework.xml
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\obj\Debug\DataCenter.csproj.AssemblyReference.cache
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\obj\Debug\DataCenter.csproj.CoreCompileInputs.cache
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\obj\Debug\DataCenter.csproj.CopyComplete
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\obj\Debug\DataCenter.dll
+C:\Users\ServerPC\source\repos\FirstSession\DataCenter\obj\Debug\DataCenter.pdb
